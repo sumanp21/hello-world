@@ -1,7 +1,9 @@
+//beginning of program
 #include<iostream>
 using namespace std;
 int main()
 {cout<<"this is my 1st program ";
 cout<<"hello world";
 return 0;
+//end of program
 }
